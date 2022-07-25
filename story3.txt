@@ -1,0 +1,2 @@
+this content is for story3
+adding new line in story3.txt
